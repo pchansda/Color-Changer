@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+}
+.button{
+    height: 50px;
+    width: 50px;
+    border: 2px solid;
+    display: inline-block;
+    margin-top: 20px;
+}
+h3{
+    margin: 30px;
+}
+#yellow{
+    background-color: yellow;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#red{
+    background-color: red;
+}
+
+#green{
+    background-color: green;
+}
+
+#purple{
+    background-color: purple;
+}
+
+#pink{
+    background-color: pink;
+}
+
+#grey{
+    background-color: grey;
+}
+#white{
+    background-color: white;
+}
